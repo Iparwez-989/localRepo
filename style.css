@@ -4,4 +4,5 @@ p{
     font-weight:bold;
 text-align:center;
 text-transform: uppercase;
+border: 2px solid black;
 }
