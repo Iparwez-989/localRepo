@@ -4,5 +4,5 @@ p{
     font-weight:800;
 text-align: center;
 text-transform: uppercase;
-border: 11px solid red;
+border: 11px dashed red;
 }
